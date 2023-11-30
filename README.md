@@ -41,13 +41,16 @@ RegisterNumber: 23005732
 
 ![Exp2 truthtable](https://github.com/SUBBIAH1904/Experiment--02-Implementation-of-combinational-logic-/assets/147473604/02fd8665-7d55-45de-aba5-d3dcccff50ef)
 
+
 ## Output:
 
 ## RTL
 
 ## Timing Diagram
 
-![wave](https://github.com/SUBBIAH1904/Experiment--02-Implementation-of-combinational-logic-/assets/147473604/fb18eac4-ae39-4460-9d63-269cd1b4e2d3)
+![ex2 wave](https://github.com/SUBBIAH1904/Experiment--02-Implementation-of-combinational-logic-/assets/147473604/b80acece-b501-4753-b03a-0f4df5829f64)
+
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
